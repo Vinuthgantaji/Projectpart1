@@ -90,7 +90,7 @@ There is one  datasets which i will be using here.
   * Microsoft Web Server IIS Role Installation
 ### Deliverables:
 * A few crucial deliverables are:
-  * **Data Analytic Platform:** Implemented on AWS, integrating data from the City of Vancouver's lost and found animal records.
+  * **Data Analytic Platform:** Implemented on AWS, integrating data from the City of Vancouver's Business Licenses.
   * **Visualizations & Reports:** Generated reports and visualizations in Excel, illustrating trends, match rates, and other key findings.
   * **Data Storage & Pipeline:** Utilized AWS S3 for storage, AWS Glue for ETL processes, and AWS Athena for querying.
   * **Documentation:** Detailed steps and methodology used in the DAP design, including data preparation, cleaning, and monitoring.
