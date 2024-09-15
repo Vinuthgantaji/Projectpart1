@@ -47,7 +47,7 @@ There is one  datasets which i will be using here.
 * The ETL pipeline design can now be started.
 * We are able to define the precise data flow, starting from the raw datasets' input and ending with the reports or final outcomes.
 * The ETL pipeline implementation's algorithm is the sole thing involved in this stage. This will provide a visual depiction of how data moves through the ETL pipeline to produce the required outputs.<br>
-![appx000-2](https://github.com/user-attachments/assets/7ba98c8d-dc85-4a11-9ec3-d8f0f4567ba3)
+![appx002](https://github.com/user-attachments/assets/56c5ff34-f2e5-46d3-98e4-0d10439608fb)
 * The above image display the details of “business license” ETL process.
 * ### Steps 8 & 9: Data Cleaning & Data Structuring
 * Data cleaning involved converting the columns into desired schema format and ensuring consistency between the two datasets.
